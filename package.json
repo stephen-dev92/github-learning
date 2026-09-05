@@ -1,0 +1,13 @@
+{
+  "name": "github-learning-notes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Small Git and GitHub practice repository.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
